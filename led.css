@@ -1,0 +1,56 @@
+.led {
+  margin: 20px auto;
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: #000 0 -1px 1px 1px;
+}
+
+.led-lg { height: 15px; width: 15px; }
+.led-sm { margin: 12px auto; height: 8px; width: 8px; }
+
+.led-red { 
+  background-color: #ff0800;
+  box-shadow: #ff0800 0 -1px 1px 1px, inset #600 0 1px 1px, #ff0800 0 1px 1px;
+}
+
+.led-maroon { 
+  background-color: #a32638;
+  box-shadow: #a32638 0 -1px 1px 1px, inset #600 0 1px 1px, #a32638 0 1px 1px;
+}
+
+.led-orange { 
+  background-color: #f77f00;
+  box-shadow: #f77f00 0 -1px 1px 1px, inset #630 0 1px 1px, #f77f00 0 1px 1px;
+}
+
+.led-yellow { 
+  background-color: #ffe135;
+  box-shadow: #ffe135 0 -1px 1px 1px, inset #660 0 1px 1px, #ffe135 0 1px 1px;
+}
+
+.led-green { 
+  background-color: #009e60;
+  box-shadow: #009e60 0 -1px 1px 1px, inset #690 0 1px 1px, #009e60 0 1px 1px;
+}
+
+.led-blue { 
+  background-color: #0072bb;
+  box-shadow: #0072bb 0 -1px 1px 1px, inset #006 0 1px 1px, #0072bb 0 1px 1px;
+}
+
+.led-cyan { 
+  background-color: #00ced1;
+  box-shadow: #00ced1 0 -1px 1px 1px, inset #006 0 1px 1px, #00ced1 0 1px 1px;
+}
+
+.led-purple { 
+  background-color: #6f2da8;
+  box-shadow: #6f2da8 0 -1px 1px 1px, inset #060 0 1px 1px, #6f2da8 0 1px 1px;
+}
+
+.led-silver { 
+  background-color: #c0c0c0;
+  box-shadow: #c0c0c0 0 -1px 1px 1px, inset #060 0 1px 1px, #c0c0c0 0 1px 1px;
+}
